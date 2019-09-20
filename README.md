@@ -18,14 +18,19 @@
 * None.
 
 # Bug Fixes
-
+*
 
 # Credits
 * David » https://github.com/LegatLastAbyssWalker
+  - `ROLE`
 * Paul » 
+  - `ROLE`
 * Gurvir »
+  - `ROLE`
 * Fiona »
+  - `ROLE`
 
 # Media
-* Youtube Channel                » www.YouTube.com/LegitMegaWalls-52
-* Github                         » https://github.com/LegatLastAbyssWalker
+* Youtube Channel » www.YouTube.com/LegitMegaWalls-52
+* Youtube Video of App » `YOUTUBE VIDEO LINK`
+* Github » https://github.com/LegatLastAbyssWalker
