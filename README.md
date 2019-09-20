@@ -1,5 +1,5 @@
 # TimeManagementApp
-* A time management app in _C++/SFML_ and another version in Python!
+* A time management app in _C++/SFML_ and another version in _Python_!
 * Recreated by David Dominguez, Paul Niziolek, Gurvir Singh, and Fiona Tisdall
 
 
